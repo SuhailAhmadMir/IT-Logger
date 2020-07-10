@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "id": 3,
+      "message": "Changed memory on workstation 050",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Sara Wilson"
+    },
+    {
+      "message": "Resolved hardware issue by sam",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-04-30T08:38:06.941Z",
+      "id": 6
+    },
+    {
+      "message": "Hanoof shah -- recovered error",
+      "attention": false,
+      "tech": "Jhon Doe",
+      "date": "2020-05-02T10:10:19.958Z",
+      "id": 8
+    },
+    {
+      "message": "system recover",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-05-02T10:12:47.297Z",
+      "id": 9
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
